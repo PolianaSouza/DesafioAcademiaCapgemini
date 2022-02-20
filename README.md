@@ -4,7 +4,9 @@
 
 
 Os exercícios foram resolvidos utilizando a linguagem Java versão 11 e a IDE Intellij.
+
 Para rodar cada exercício, basta selecionar a classe e executá-lo.
+
 Cada exercicio está separados por pacote onde contém a classe com a resolução  dos mesmos.
 
 ### Imagens dos Exercícios:
@@ -32,4 +34,5 @@ Porém se a senha digitada for inválida, irá perguntar se quer tentar novament
 <img src="https://github.com/PolianaSouza/DesafioAcademiaCapgemini/blob/main/assets/senha-inv%C3%A1lida.png?raw=true">  <img src="https://github.com/PolianaSouza/DesafioAcademiaCapgemini/blob/main/assets/tentar-novamente.png?raw=true">
 
 Se digitar o numero 1, o programa retorna para a tela solicitando a senha.
+
 Se digitar o numero 2, o programa encerra.
