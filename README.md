@@ -3,8 +3,9 @@
 ## Resolução do desafio proposto pela Academia Capgemini, para concorrer a uma formação em java
 
 
-Os exercícios foram resolvidos utilizando a linguagem java, cada exercicio está separados por pacote onde contém a classe com a resolução 
-dos mesmos.
+Os exercícios foram resolvidos utilizando a linguagem Java versão 11 e a IDE Intellij.
+Para rodar cada exercício, basta selecionar a classe e executá-lo.
+Cada exercicio está separados por pacote onde contém a classe com a resolução  dos mesmos.
 
 ### Imagens dos Exercícios:
 
